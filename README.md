@@ -17,6 +17,7 @@ Edit `appsettings.json`:
     "ApiKey": "YOUR_API_KEY_HERE"
   }
 }
+```
 
 Or set an environment variable:
 
