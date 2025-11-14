@@ -1,0 +1,58 @@
+# Build results
+bin/
+obj/
+out/
+*.exe
+*.dll
+*.mdb
+*.pdb
+
+# Visual Studio Code
+.vscode/
+.vs/
+*.user
+*.suo
+
+# ASP.NET temporary files
+**/App_Data/
+**/App_Temp/
+**/Temporary ASP.NET Files/
+
+# DotNet artifacts
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Logs
+*.log
+
+# Environment-specific settings
+appsettings.Development.json
+appsettings.Local.json
+
+# Sensitive environment vars (optional)
+*.env
+
+# macOS system files
+.DS_Store
+
+# Rider / JetBrains
+.idea/
+*.iml
+
+# NuGet packages
+*.nupkg
+packages/
+.nuget/
+
+# Ignore coverage output
+coverage/
+*.coverage
+*.coveragexml
+
+# Ignore publish output
+publish/
+
+# Temp files
+*.tmp
+*.temp
